@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzithendo31
 - 👀 I’m interested in Data Structures and Algorithms, UI/Ux Design
 - Most of projects are made private to avoid plagirism with my University.
-- 🌱 I’m currently learning FrontEnd Programming, as most of my studies have been on BackEnd with Java
+- 🌱 I’m currently learning FrontEnd Programming, as most of my studies have been on BackEnd with Java, Python and C++
 - 💞️ I’m looking to collaborate on interesting projects that can help me become a better developer
 - 📫 How to reach me 
 
