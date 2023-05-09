@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzithendo31
 - 👀 I’m interested in Data Structures and Algorithms, UI/Ux Design
 - A big fan of Logic based Puzzle games.
-- # NOTE:Most of projects are made private to avoid plagirism with my University.
+- # NOTE:Most of projects are made private to avoid plagirism with my University; but availible upon request.
 - 🌱 I’m currently learning FrontEnd Programming, as most of my studies have been on BackEnd with Java, Python and C++
 - 💞️ I’m looking to collaborate on interesting projects that can help me become a better developer
 - 📫 How to reach me 
