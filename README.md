@@ -2,7 +2,7 @@
 - 🧠 I’m a software engineer with a love for clean architecture, reliable systems and solving real-world problems with code
 - 💸 I’m deeply interested in fintech technologies – payments, digital banking, and building trustworthy financial systems
 - 🖥️ I enjoy working across the stack – from backend services to polished frontends
-- 🌱 I’m always learning: exploring better patterns, sharpening my skills, and building side projects (often with a gaming twist)
+- 🌱 I’m always learning: exploring better patterns, sharpening my skills, and building side projects (Arduino's and MicroChips)
 - 💼 I care about scalable, maintainable software: good domain models, clear boundaries and solid testing
 - 📫 Want to reach out? Open an issue, start a discussion on one of my repos, or drop me a message via my socials
 
@@ -24,6 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -40,9 +41,12 @@
 ### Data, Messaging & Search
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 </p>
 
 ### Cloud & DevOps
@@ -67,10 +71,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### Mobile
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+
 
 ### Testing
 <p>
