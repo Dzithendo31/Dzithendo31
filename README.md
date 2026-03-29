@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Dzithendo31
-- 🧠 I’m a software engineer with a love for clean architecture, reliable systems and solving real-world problems with code
-- 💸 I’m deeply interested in fintech technologies – payments, digital banking, and building trustworthy financial systems
-- 🖥️ I enjoy working across the stack – from backend services to polished frontends
-- 🌱 I’m always learning: exploring better patterns, sharpening my skills, and building side projects (Arduino's and MicroChips)
-- 💼 I care about scalable, maintainable software: good domain models, clear boundaries and solid testing
-- 📫 Want to reach out? Open an issue, start a discussion on one of my repos, or drop me a message via my socials
+- I’m a software engineer with a love for clean architecture, reliable systems and solving real-world problems with code
+- I’m deeply interested in fintech technologies – payments, digital banking, and building trustworthy financial systems
+- I enjoy working across the stack – from backend services to polished frontends
+- I care about scalable, maintainable software: good domain models, clear boundaries and solid testing
 
 
 ---
